@@ -1,2 +1,2 @@
-# tfads_fdgrp_validity
-TeenFADS study food group validity study
+# TeenFADS study food group validity study
+
