@@ -1,2 +1,1 @@
-# TeenFADS study food group validity study
-
+# TeenFADS study: Food group validity
